@@ -1,13 +1,13 @@
-# Hi Everyone! I'm **Mr.R!9HT**!
+# Hi Everyone! I'm **MR19HT**!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ayman-8m7a99/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mr_R19HT)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MR19HT)
 
 > **"Don’t stop until you’re proud of yourself."**
 
 ## 🚀 About Me
 
-I'm a Cyber Security Engineer, Interested in Red Teaming, Digital Forensics, adored programming & scripting.
+My name is Ahmed Ayman & I'm a Cybersecurity Engineer. Interested in Red Teaming and penetration testing. I participate in most CTF competitions. Sometimes I write articles about competitions and summarize technical topics, whether they are in the form of essays or mental maps, and all of this is available on my blog and GitHub. I worked on many software projects while studying computer engineering in different fields like digital image processing, software engineering, computer graphics, artificial intelligence and all those projects are on my GitHub.Hi Everyone! My name is Ahmed Ayman & I'm a Cybersecurity Engineer. Interested in Red Teaming and penetration testing. I participate in most CTF competitions. Sometimes I write articles about competitions and summarize technical topics, whether they are in the form of essays or mental maps, and all of this is available on my blog and GitHub. I worked on many software projects while studying computer engineering in different fields like digital image processing, software engineering, computer graphics, artificial intelligence and all those projects are on my GitHub.
 
 ## Programming Languages
 
