@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-My name is Ahmed Ayman & I'm a Cybersecurity Engineer. Interested in Red Teaming and penetration testing. I participate in most CTF competitions. Sometimes I write articles about competitions and summarize technical topics, whether they are in the form of essays or mental maps, and all of this is available on my blog and GitHub. I worked on many software projects while studying computer engineering in different fields like digital image processing, software engineering, computer graphics, artificial intelligence and all those projects are on my GitHub.Hi Everyone! My name is Ahmed Ayman & I'm a Cybersecurity Engineer. Interested in Red Teaming and penetration testing. I participate in most CTF competitions. Sometimes I write articles about competitions and summarize technical topics, whether they are in the form of essays or mental maps, and all of this is available on my blog and GitHub. I worked on many software projects while studying computer engineering in different fields like digital image processing, software engineering, computer graphics, artificial intelligence and all those projects are on my GitHub.
+My name is Ahmed Ayman & I'm a Cybersecurity Engineer. Interested in Red Teaming and penetration testing. I participate in most CTF competitions. Sometimes I write articles about competitions and summarize technical topics, whether they are in the form of essays or mental maps, and all of this is available on my blog and GitHub. I worked on many software projects while studying computer engineering in different fields like digital image processing, software engineering, computer graphics, artificial intelligence and all those projects are on my GitHub.
 
 ## Programming Languages
 
